@@ -1,0 +1,12 @@
+openai
+python-dotenv
+gpt3_tokenizer
+fastapi
+uvicorn
+openai
+websockets
+python-jose
+passlib
+bcrypt
+
+#python-multipar
